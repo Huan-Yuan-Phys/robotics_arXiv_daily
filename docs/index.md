@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**MultiWorld: Scalable Multi-Agent Multi-View Video World Models**|Xihui Liu Team|[2604.18564](http://arxiv.org/abs/2604.18564)|null|
+|**2026-04-20**|**Real-Time Algorithms for Model Predictive Control of Hybrid Dynamical Systems**|Moritz Diehl Team|[2604.18432](http://arxiv.org/abs/2604.18432)|**[link](https://github.com/nosnoc/nosnoc)**|
+|**2026-04-20**|**COFFAIL: A Dataset of Successful and Anomalous Robot Skill Executions in the Context of Coffee Preparation**|Ayush Salunke Team|[2604.18236](http://arxiv.org/abs/2604.18236)|null|
 |**2026-04-20**|**Can Explicit Physical Feasibility Benefit VLA Learning? An Empirical Study**|Hashem Haghbayan Team|[2604.17896](http://arxiv.org/abs/2604.17896)|null|
 |**2026-04-20**|**ST- $π$ : Structured SpatioTemporal VLA for Robotic Manipulation**|Luxin Yan Team|[2604.17880](http://arxiv.org/abs/2604.17880)|null|
 |**2026-04-20**|**OFlow: Injecting Object-Aware Temporal Flow Matching for Robust Robotic Manipulation**|Xiangyang Xue Team|[2604.17876](http://arxiv.org/abs/2604.17876)|null|
@@ -2350,6 +2353,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**S2H-DPO: Hardness-Aware Preference Optimization for Vision-Language Models**|Arun Ross Team|[2604.18512](http://arxiv.org/abs/2604.18512)|null|
+|**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Diange Yang Team|[2604.18484](http://arxiv.org/abs/2604.18484)|null|
+|**2026-04-20**|**ESsEN: Training Compact Discriminative Vision-Language Transformers in a Low-Resource Setting**|Casey Kennington Team|[2604.18452](http://arxiv.org/abs/2604.18452)|null|
+|**2026-04-20**|**ProtoCLIP: Prototype-Aligned Latent Refinement for Robust Zero-Shot Chest X-Ray Classification**|Andreas Maier Team|[2604.18444](http://arxiv.org/abs/2604.18444)|null|
+|**2026-04-20**|**Revisiting Change VQA in Remote Sensing with Structured and Native Multimodal Qwen Models**|Faroun Mohamed Team|[2604.18429](http://arxiv.org/abs/2604.18429)|null|
+|**2026-04-20**|**Multilingual Training and Evaluation Resources for Vision-Language Models**|Andrea Zugarini Team|[2604.18347](http://arxiv.org/abs/2604.18347)|null|
+|**2026-04-20**|**Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting**|Kibok Lee Team|[2604.18075](http://arxiv.org/abs/2604.18075)|null|
 |**2026-04-20**|**Mitigating Multimodal Hallucination via Phase-wise Self-reward**|Min Zhang Team|[2604.17982](http://arxiv.org/abs/2604.17982)|null|
 |**2026-04-20**|**From Heads to Neurons: Causal Attribution and Steering in Multi-Task Vision-Language Models**|Ming Jiang Team|[2604.17941](http://arxiv.org/abs/2604.17941)|null|
 |**2026-04-20**|**OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models**|Zhipeng Zhang Team|[2604.17915](http://arxiv.org/abs/2604.17915)|null|
@@ -6356,6 +6366,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**XEmbodied: A Foundation Model with Enhanced Geometric and Physical Cues for Large-Scale Embodied Environments**|Diange Yang Team|[2604.18484](http://arxiv.org/abs/2604.18484)|null|
+|**2026-04-20**|**Test-Time Perturbation Learning with Delayed Feedback for Vision-Language-Action Models**|Jiangmeng Li Team|[2604.18107](http://arxiv.org/abs/2604.18107)|null|
 |**2026-04-20**|**Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models**|Zongqing Lu Team|[2604.18000](http://arxiv.org/abs/2604.18000)|null|
 |**2026-04-20**|**OneDrive: Unified Multi-Paradigm Driving with Vision-Language-Action Models**|Zhipeng Zhang Team|[2604.17915](http://arxiv.org/abs/2604.17915)|null|
 |**2026-04-20**|**Can Explicit Physical Feasibility Benefit VLA Learning? An Empirical Study**|Hashem Haghbayan Team|[2604.17896](http://arxiv.org/abs/2604.17896)|null|
