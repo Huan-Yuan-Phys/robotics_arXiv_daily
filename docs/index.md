@@ -2426,6 +2426,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion**|Ming-Hsuan Yang Team|[2605.02892](http://arxiv.org/abs/2605.02892)|**[link](https://liagm.github.io/AlbumFill/)**|
 |**2026-05-04**|**VideoNet: A Large-Scale Dataset for Domain-Specific Action Recognition**|Ranjay Krishna Team|[2605.02834](http://arxiv.org/abs/2605.02834)|**[link](https://tanu.sh/videonet)**|
 |**2026-05-04**|**Perceptual Flow Network for Visually Grounded Reasoning**|Yue Lu Team|[2605.02730](http://arxiv.org/abs/2605.02730)|null|
 |**2026-05-04**|**PubMed-Ophtha: An open resource for training ophthalmology vision-language models on scientific literature**|Philipp Berens Team|[2605.02720](http://arxiv.org/abs/2605.02720)|**[link](https://huggingface.co/datasets/pubmed-ophtha/PubMed-Ophtha.)**|
@@ -6586,6 +6587,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**MolmoAct2: Action Reasoning Models for Real-world Deployment**|Ranjay Krishna Team|[2605.02881](http://arxiv.org/abs/2605.02881)|**[link](https://allenai.org/blog/molmoact2)**|
 |**2026-05-04**|**Seeing Realism from Simulation: Efficient Video Transfer for Vision-Language-Action Data Augmentation**|Chang Xu Team|[2605.02757](http://arxiv.org/abs/2605.02757)|null|
 |**2026-05-04**|**Latent Bridge: Feature Delta Prediction for Efficient Dual-System Vision-Language-Action Model Inference**|Hai Li Team|[2605.02739](http://arxiv.org/abs/2605.02739)|null|
 |**2026-05-03**|**VILAS: A VLA-Integrated Low-cost Architecture with Soft Grasping for Robotic Manipulation**|Lifeng Zhou Team|[2605.02037](http://arxiv.org/abs/2605.02037)|null|
